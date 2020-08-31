@@ -3,10 +3,7 @@
 
 Esta arquitetura foi planejada para atender um processo de integração streaming, no qual qualquer evento realizado na fonte  é coletado e armazenado dentro do nosso datalake.
 
-```
-![Arquitetura](https://github.com/romulovitor/cerc_challenge/blob/master/arquitetura/img/design_arquitetura.png)
-
-```
+![Arquitetura](design_arquitetura.png)
 
 
 # Padrões de nomes
