@@ -7,7 +7,6 @@ os passos demonstrado.
 # Setup
 - Python >= 3.7.1
 - Virtualenv >= 16.4.3
-- pip 20.0.2
 
 # Deploy
 - clone o presente repositório: $ git clone https://github.com/romulovitor/cerc_challenge.git.
