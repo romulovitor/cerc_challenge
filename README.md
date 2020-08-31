@@ -7,4 +7,4 @@ A Dentro da folder **python** tem o desafio relacionado à implementação do al
 
 ## arquitetura folder
 
-Na folder **arquitetura** tem um arquivo "README.md" contendo o design e explicação do pipeline de integração proposto para armazenar os dados em um datalake no BigQuery.
+Na folder **arquitetura** tem um arquivo **README.md** contendo o design e explicação do pipeline de integração proposto para armazenar os dados em um datalake no BigQuery.
