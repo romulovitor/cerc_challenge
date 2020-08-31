@@ -11,7 +11,7 @@ os passos demonstrado.
 
 # Deploy
 - clone o presente repositório: $ git clone https://github.com/romulovitor/cerc_challenge.git.
-- acesse a pasta do projeto: $ cd DataEngineer.
+- acesse a pasta do projeto: $ cd cerc_challenge.
 - ative o ambiente: $ source venv/bin/activate.
 - acesse a pasta do projeto: $ cd python.
 - execute o pipeline: $ python chicago_bikeshare_pt.py

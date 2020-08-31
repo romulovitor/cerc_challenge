@@ -1,4 +1,3 @@
-
 # Arquitetura Stream para integração de eventos no GCP
 
 Esta arquitetura foi planejada para atender um processo de integração streaming, no qual qualquer evento realizado na fonte  é coletado e armazenado dentro do nosso datalake.
@@ -72,4 +71,3 @@ O processo de load baseado nas functions é totalmente serveless, por exemplo, a
 Outra questão está relacionado ao datalake no BigQuery, fazendo o particionamento dos dados diariamente, ao escanear determinada transação irá escanear apenas o dia específico necessário.
 Ao mapear o payload genérico para para encapsular os eventos, permite flexibilidade no envio das informações sem quebrar o processo de integração. Com isso, não temos a necessidade de saber quando ocorreu mudança de schema no produtor dos dados.
 Com todas as informações dentro de um dataset no BigQuery, fica mais fácil escalar o uso dos dados, seja ele por data science ou data analyst. Ficando assim, ao gosto dos usuários modelar e explorar as informações.
-
