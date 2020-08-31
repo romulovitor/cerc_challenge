@@ -4,7 +4,7 @@
 Esta arquitetura foi planejada para atender um processo de integração streaming, no qual qualquer evento realizado na fonte  é coletado e armazenado dentro do nosso datalake.
 
 ```
-![Arquitetura](/img/design_arquitetura.png)
+![Arquitetura](./img/design_arquitetura.png)
 ```
 
 
