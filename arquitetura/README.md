@@ -43,7 +43,7 @@ Nome do dataset de entrada:
 
 Por exemplo:
 
--   `raw_planck`
+-   `raw_cerc`
 
 # Monitoramento
 O Stackdriver será responsável por coletar e armazenar todas os logs dos componentes apresentados na arquitetura. Com isso, teremos dashboards para ter uma visão macro do desempenho e integração do pipeline.
